@@ -1,11 +1,6 @@
 {
-  "updated": "2026-11-10T11:10:00Z",
+  "updated": "2026-11-12T11:06:00Z",
   "launches": {
-    "6aa7b90b-e5ed-45d8-a52e-04fbf399d178": {
-      "heading": 133,
-      "name": "Falcon 9 Block 5 | USSF-627",
-      "source": "Next Spaceflight"
-    },
     "ef9850ad-1096-425b-9d27-f7bbd186e61a": {
       "heading": 45,
       "name": "Vulcan VC6L | Amazon Leo (LV-01)",
